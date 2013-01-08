@@ -1,0 +1,43 @@
+3Jul
+apache
+aux
+circulos.doc
+Descargas
+Documentos
+Documento sin título 1
+Dropbox
+eclipse
+Escritorio
+examples.desktop
+fotosGonzalo.zip
+git
+grails-2.1.1
+groovy-2.0.5
+hddred
+httpd-2.4.3
+Imágenes
+inal09.der
+java3d64
+jdk1.7.0_07
+luminance-hdr-2.3.0
+mozilla.pdf
+mrpt-read-only
+Música
+nfs
+Oposicion
+out.txt~
+PCL
+PCL.tgz
+Plantillas
+presentación.odp
+proyecto
+proyecto.tgz
+Público
+setEnv.sh
+setEnv.sh~
+Sin título 2.ods
+svn
+Técnicas de las que disponemos.odt
+Vídeos
+VirtualBox VMs
+workspace_java
